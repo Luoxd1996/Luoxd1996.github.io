@@ -7,7 +7,7 @@ author_profile: true
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo</b><br> 
-  **ArXiv2023**, the first work about using active learning for source-free domain adaption in medical image segmentation.
+  **ArXiv2023**, the first work about using active learning for source-free domain adaption in medical image segmentation.<br> 
   [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
   
 **Journals**
