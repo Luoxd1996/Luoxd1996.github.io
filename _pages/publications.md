@@ -18,7 +18,7 @@ Wenjun Liao, <b>Xiangde Luo</b><br>
 **Technical Journals**  
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
-  <b>IEEE Transaction on Medical Imaging, 42(9), 2666 - 2677. (2023 IF 10.6).</b> (the first three authors contributed equally.)<br>
+  <b>IEEE Transaction on Medical Imaging, 42 (9): 2666-2677. (2023 IF 10.6).</b> (the first three authors contributed equally.)<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10087318)][[code](https://github.com/NeuronXJTU/SFDA-CellSeg)][[pdf](../files/SFDA-CellSeg-TMI2023.pdf)]
 
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
