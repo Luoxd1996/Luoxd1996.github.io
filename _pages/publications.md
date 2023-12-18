@@ -5,7 +5,7 @@ author_profile: true
 ---
 **Tech reports**    
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
-<b>Xiangde Luo</b>, Jia Fu, all participants, Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
+<b>Xiangde Luo</b>, Jia Fu, All Participants (35 Authors), Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
 <b>A challenge report of SegRap2023 (organized in conjunction with MICCAI2023).</b><br>
 [[paper](https://arxiv.org/abs/2312.09576)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/segrap2023_arxiv.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
 
