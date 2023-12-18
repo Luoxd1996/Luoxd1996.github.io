@@ -6,7 +6,7 @@ author_profile: true
 **Tech reports**    
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
 <b>Xiangde Luo</b>, Jia Fu, Yunxin Zhong, Shuolin Liu, Bing Han, Mehdi Astaraki, Simone Bendazzoli, Iuliana Toma-Dasu, Yiwen Ye, Ziyang Chen, Yong Xia, Yanzhou Su, Jin Ye, Junjun He, Zhaohu Xing, Hongqiu Wang, Lei Zhu, Kaixiang Yang, Xin Fang, Zhiwei Wang, Chan Woong Lee, Sang Joon Park, Jaehee Chun, Constantin Ulrich, Klaus H. Maier-Hein, Nchongmaje Ndipenoch, Alina Miron, Yongmin Li, Yimeng Zhang, Yu Chen, Lu Bai, Jinlong Huang, Chengyang An, Lisheng Wang, Kaiwen Huang, Yunqi Gu, Tao Zhou, Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
-A challenge report of SegRap2023 (organized in conjunction with MICCAI2023).<br>
+<b>A challenge report of SegRap2023 (organized in conjunction with MICCAI2023).</b><br>
 [[paper](https://arxiv.org/abs/2312.09576)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/segrap2023_arxiv.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
 
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
