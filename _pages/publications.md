@@ -17,7 +17,7 @@ Wenjun Liao, <b>Xiangde Luo</b><br>
 
 * <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
   <b>Xiangde Luo</b>, Hongqiu Wang, Jinfeng Xu, Lu Li, Yue Zhao, Yuan He, Hui Huang, Jianghong Xiao, Song Tao, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Wenjun Liao<br> 
-  Submitted to **Radiology: Artificial Intelligence** (Under Major Revision), the first application work using active learning for source-free primary tumor cross multi-center and multi-rater delineation evaluation.<br>
+  Submitted to **Radiology: Artificial Intelligence** (Under Major Revision), the first application using active learning for source-free primary tumor cross multi-center and multi-rater delineation evaluation.<br>
   [[paper](../)][[code](../)][[pdf]](../)[[dataset]](../)
   
 **Technical Journals**  
