@@ -14,6 +14,11 @@ author_profile: true
 Wenjun Liao, <b>Xiangde Luo</b><br> 
   Submitted to **IEEE Transaction on Medical Imaging** (Under Major Revision), the first work about using active learning for source-free domain adaption in medical image segmentation.<br>
   [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
+
+* <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b> <br> 
+  <b>Xiangde Luo</b>, PhD • Hongqiu Wang, Jinfeng Xu, Lu Li, Yue Zhao, Yuan He, Hui Huang, Jianghong Xiao, Song Tao, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Wenjun Liao<br> 
+  Submitted to **Radiology: Artificial Intelligence** (Under Major Revision), the first application work using active learning for source-free primary tumor cross multi-center and multi-rater delineation evaluation.<br>
+  [[paper](../)][[code](../)][[pdf]](../)[[dataset]](../)
   
 **Technical Journals**  
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
