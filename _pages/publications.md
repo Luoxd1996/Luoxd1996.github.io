@@ -20,6 +20,11 @@ author_profile: true
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
   Accepted to **IEEE Transaction on Medical Imaging (2023 IF 10.6).**<br>
   [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
+
+* <b>Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation</b> <br> 
+  <b>Xingyue Zhao, Zhongyu Li, Xiangde Luo</b>, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong <br> 
+  <b>IEEE Transactions on Circuits and Systems for Video Technology. (2023 IF 8.4).</b> (the first three authors contributed equally.)<br>
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10508987)][[code](https://github.com/NeuronXJTU/CRBNet)]
   
 * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
