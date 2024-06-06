@@ -16,7 +16,7 @@ redirect_from:
 <!--* Now, I am seeking a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 # Recent News
-*  June 6, 2024, A paper about source-free active domain adaptation for NPC GTVp Segmentation across Multiple Hospitals ([ArXiv](https://arxiv.org/abs/2309.13401)) was accepted by **IEEE Transaction on Medical Imaging**, congrats to **Mr. Hongqiu Wang**.
+*  June 6, 2024, A paper about source-free active domain adaptation for NPC GTVp segmentation across multiple hospitals ([ArXiv](https://arxiv.org/abs/2309.13401)) was accepted by **IEEE Transaction on Medical Imaging**, congrats to **Mr. Hongqiu Wang**.
 * I passed my PhD defence on May 28, 2024!
 * May 19, 2023, A clinical paper about automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy was accepted by <b>International Journal of Radiation Oncology\*Biology\*Physics</b> (also named **RedJournal**, one of the top-tier journals in the radiation and oncology field, double-blind review), congratulate <b>M.D. Wenjun Liao</b>.
 * Apr. 10, 2023, We will host an automatic segmentation challenge [**SegRap2023**](https://segrap2023.grand-challenge.org) at [MICCAI2023](https://conferences.miccai.org/2023/en/) focusing on GTVnx, GTVnd, and 45 OARs segmentation for nasopharyngeal carcinoma radiotherapy planning. Welcome to participate in it.
