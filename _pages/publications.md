@@ -9,18 +9,18 @@ author_profile: true
 <b>A challenge report of SegRap2023 (organized in conjunction with MICCAI2023).</b><br>
 [[paper](https://arxiv.org/abs/2312.09576)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/segrap2023_arxiv.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
 
-* <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
-  Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
-Wenjun Liao, <b>Xiangde Luo</b><br> 
-  Submitted to **IEEE Transaction on Medical Imaging** (Under Major Revision), the first work about using active learning for source-free domain adaption in medical image segmentation.<br>
-  [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
-
 * <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
   <b>Xiangde Luo</b>, Hongqiu Wang, Jinfeng Xu, Lu Li, Yue Zhao, Yuan He, Hui Huang, Jianghong Xiao, Song Tao, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Wenjun Liao<br> 
   Submitted to **Radiology: Artificial Intelligence** (Under Major Revision), the first application using active learning for source-free primary tumor cross multi-center and multi-rater delineation evaluation.<br>
   [[paper](../)][[code](../)][[pdf]](../)[[dataset]](../)
   
 **Technical Journals**  
+* <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
+  Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
+Wenjun Liao, <b>Xiangde Luo</b><br> 
+  Accepted to **IEEE Transaction on Medical Imaging** (2023 IF 10.6)<br>
+  [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
+  
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <b>IEEE Transaction on Medical Imaging, 42 (9): 2666-2677. (2023 IF 10.6).</b> (the first three authors contributed equally.)<br>
