@@ -18,10 +18,10 @@ author_profile: true
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo</b><br> 
-  Accepted to **IEEE Transaction on Medical Imaging** (2023 IF 10.6)<br>
+  Accepted to **IEEE Transaction on Medical Imaging (2023 IF 10.6)**<br>
   [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
   
-  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
+* <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <b>IEEE Transaction on Medical Imaging, 42 (9): 2666-2677. (2023 IF 10.6).</b> (the first three authors contributed equally.)<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10087318)][[code](https://github.com/NeuronXJTU/SFDA-CellSeg)][[pdf](../files/SFDA-CellSeg-TMI2023.pdf)]
