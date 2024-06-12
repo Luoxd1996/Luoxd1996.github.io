@@ -19,7 +19,7 @@ author_profile: true
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
   Accepted to **IEEE Transaction on Medical Imaging (2023 IF 10.6).**<br>
-  [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
+  [[paper](https://ieeexplore.ieee.org/document/10553522)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
 
 * <b>Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation</b> <br> 
   <b>Xingyue Zhao, Zhongyu Li, Xiangde Luo</b>, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong <br> 
