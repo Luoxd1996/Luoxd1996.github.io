@@ -19,7 +19,7 @@ Work experience
 ======
 * July. 2024 - Present: Research Assistant
   *  [West China Hospital of Sichuan University](https://www.wchscu.cn/Home.html).
-  *  Job description: Developing clinical target volume delineation tools for oncology radiation threapy, working with <b>[Prof. Kang Li](https://scholar.google.com/citations?user=Ww6adYYAAAAJ&hl=en)</b>.
+  *  Job description: Developing clinical target volume delineation tools for oncology radiation therapy, working with <b>[Prof. Kang Li](https://scholar.google.com/citations?user=Ww6adYYAAAAJ&hl=en)</b>.
 
 Professional activities
 ======
