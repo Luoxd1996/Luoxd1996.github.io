@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Student, Medical Image Computing, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2020 - Present
-* Master degree candidate, Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2018 - June 2020
+* Ph.D. Student, Medical Image Computing, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2020 - June 2024
+* Master's degree candidate, Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2018 - June 2020
 * B.S. Mechanical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Sep 2014 - June 2018
 
 Work experience
