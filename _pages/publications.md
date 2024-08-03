@@ -70,7 +70,7 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
 **Conferences**
 * <b>Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases</b> <br>
 <b>Xiangde Luo</b>, Zihan Li, Wenjun Liao, Shaoting Zhang, Guotai Wang<br>
-  <b>MICCAI2024 (CCF B, early accept, top 11% in 2869 submissions</b>.<br>
+  <b>MICCAI2024 (CCF B, early accept, top 11% in 2869 submissions.)</b>.<br>
   [[paper](https://arxiv.org/abs/2406.13674)][[code](https://github.com/Luoxd1996/RAOS)][[pdf](https://arxiv.org/pdf/2406.13674)]
 
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
