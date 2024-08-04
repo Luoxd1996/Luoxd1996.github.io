@@ -91,7 +91,7 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Guotai Wang<br>
   <b>AAAI2021 (CCF A)</b>.<br>
-  <font color=#FF000 ><b>Top 15 Most Influential AAAI 2021 Papers, [[Source](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/)]</b>.<br></font>
+  <font color="red"><b>Top 15 Most Influential AAAI 2021 Papers</font>, [[Source](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/)]</b>.<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
  
 <!-- * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
