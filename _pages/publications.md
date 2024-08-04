@@ -38,7 +38,7 @@ Wenjun Liao, <b>Xiangde Luo*</b><br>
    
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
-   <b>Medical Image Analysis, 80 (2022): 102517. (2022 IF 13.828)</b>.<br>
+   <b>Medical Image Analysis, 80 (2022): 102517. (2022 IF 13.828), <font color="red">ESI Highly Cited Papers</font></b>.<br>
   [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001645)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/URPC-MedIA2022.pdf)]
     
  * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
@@ -91,7 +91,7 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Guotai Wang<br>
   <b>AAAI2021 (CCF A)</b>.<br>
-  <font color="red">Top 15 Most Influential AAAI 2021 Papers </font>, [[Source](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/)].<br>
+  <font color="red">Top 15 Most Influential AAAI 2021 Papers, [Source](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/)</font>,
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
  
 <!-- * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
