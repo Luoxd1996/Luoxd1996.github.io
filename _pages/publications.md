@@ -89,7 +89,7 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/URPC-MICCAI2021.pdf)]
    
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
-  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Guotai Wang<br>
+  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
   <b>AAAI2021 (CCF A)</b>.<br>
   <b><font color="red">Top 15 Most Influential AAAI 2021 Papers</font>, [Source](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/)</b> <br> 
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
