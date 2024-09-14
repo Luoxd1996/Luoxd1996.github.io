@@ -9,10 +9,10 @@ author_profile: true
 <b>A challenge report of SegRap2023 (organized in conjunction with MICCAI2023).</b><br>
 [[paper](https://arxiv.org/abs/2312.09576)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/segrap2023_arxiv.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
 
-* <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
+<!-- * <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
   <b>Xiangde Luo</b>, Hongqiu Wang, Jinfeng Xu, Lu Li, Yue Zhao, Yuan He, Hui Huang, Jianghong Xiao, Song Tao, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Wenjun Liao<br> 
   <b>Submitted to **International Journal of Radiation Oncology Biology Physics** (Under Major Revision), the first application using active learning for source-free primary tumor cross multi-center and multi-rater delineation evaluation.<br>
-  [[paper](../)][[code](../)][[pdf]](../)[[dataset]](../)
+  [[paper](../)][[code](../)][[pdf]](../)[[dataset]](../) -->
   
 **Technical Journals**  
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
