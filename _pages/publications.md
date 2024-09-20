@@ -52,6 +52,11 @@ Wenjun Liao, <b>Xiangde Luo*</b><br>
  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[pdf](../files/MIDeepSeg-MedIA2021.pdf)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
 
 **Clinical Journals**  
+ * <b>A multicenter dataset for lymph node clinical target volume delineation of nasopharyngeal carcinoma</b> <br>
+ * <b>Xiangde Luo</b>, Wenjun Liao, Yue Zhao, Youjing Qiu, Jinfeng Xu, Yuan He, Hui Huang, Lu Li, Shichuan Zhang, Jia Fu, Guotai Wang, Shaoting Zhang<br>
+ * <b>Accept to Scientific Data (2024 IF 5.9)</b>.<br>
+[[paper](../)][[code](https://github.com/Luoxd1996/LNCTVSeg)][[pdf](../)][[dataset](https://figshare.com/articles/dataset/LNCTVSeg-DataSet_zip/26793622)]
+ 
  * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
  <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang<br> 
  <b>Radiotherapy and Oncology, 180 (2023): 109480. (2022 IF 6.901)</b>.<br>
