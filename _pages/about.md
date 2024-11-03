@@ -18,6 +18,7 @@ redirect_from:
 <!--* Now, I am seeking a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 # Recent News
+* November 3, 2024, A clinical paper about source-free active domain adaptation for NPC GTVp segmentation across multiple hospitals and multiple raters was accepted by <b>International Journal of Radiation Oncology\*Biology\*Physics</b> (also named **RedJournal**, one of the top-tier journals in the radiation and oncology field, double-blind review), congratulate <b>Mr. Hongqiu Wang and M.D. Wenjun Liao</b>.
 *  On June 17, 2024, Three papers were accepted to MICCAI2024 (two early acceptances), one about the robustness segmentation of abdominal organs ([RAOS](https://arxiv.org/pdf/2406.13674)) and two about source-free active domain adaptation ([SFADA-UWF-SLO](https://arxiv.org/pdf/2406.13645) and [UGTST](https://arxiv.org/pdf/2407.02893)), congrats to **Hongqiu**, **Zihao**, **Zihan**.
 *  June 6, 2024, A paper about source-free active domain adaptation for NPC GTVp segmentation across multiple hospitals ([ArXiv](https://arxiv.org/abs/2309.13401)) was accepted by **IEEE Transaction on Medical Imaging**, congrats to **Mr. Hongqiu Wang**.
 * I passed my PhD defence on May 28, 2024!
