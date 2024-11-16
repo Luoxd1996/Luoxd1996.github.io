@@ -50,7 +50,7 @@ Wenjun Liao, <b>Xiangde Luo*</b><br>
 * <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
   <b>Xiangde Luo</b>, Hongqiu Wang, Jinfeng Xu, Lu Li, Yue Zhao, Yuan He, Hui Huang, Jianghong Xiao, Song Tao, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Wenjun Liao<br> 
   <b>Accepted to **International Journal of Radiation Oncology Biology Physics** (2024 IF 6.4).<br>
-  [[paper](../)][[code](https://github.com/Luoxd1996/AL4GTVSeg)][[pdf]](../)[[dataset]](https://github.com/whq-xxh/SFADA-GTV-Seg)
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0360301624036447)][[code](https://github.com/Luoxd1996/AL4GTVSeg)][[pdf]](https://www.sciencedirect.com/science/article/pii/S0360301624036447)[[dataset]](https://github.com/whq-xxh/SFADA-GTV-Seg)
   
  * <b>A multicenter dataset for lymph node clinical target volume delineation of nasopharyngeal carcinoma</b> <br>
 <b>Xiangde Luo</b>, Wenjun Liao, Yue Zhao, Youjing Qiu, Jinfeng Xu, Yuan He, Hui Huang, Lu Li, Shichuan Zhang, Jia Fu, Guotai Wang, Shaoting Zhang<br>
