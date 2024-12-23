@@ -3,9 +3,6 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-<-- **Tech reports**   -->
-
-  
 **Technical Journals**  
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
 <b>Xiangde Luo</b>, Jia Fu, All Participants (35 Authors), Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
