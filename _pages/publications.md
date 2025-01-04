@@ -7,7 +7,7 @@ author_profile: true
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
 <b>Xiangde Luo</b>, Jia Fu, All Participants (35 Authors), Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
 <b>Accept to Medical Image Analysis (2024 IF 10.7).</b><br>
-[[paper](https://arxiv.org/abs/2312.09576)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/SegRap2023_MedIA.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
+[[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003748)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/SegRap2023_MedIA.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
 
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
