@@ -6,18 +6,18 @@ author_profile: true
 **Technical Journals**  
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
 <b>Xiangde Luo</b>, Jia Fu, All Participants (35 Authors), Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
-<b>Accept to Medical Image Analysis (2024 IF 10.7).</b><br>
+<b>Medical Image Analysis, 101 (2025): 103447. (2024 IF 10.7).</b><br>
 [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003748)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/SegRap2023_MedIA.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
 
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
-  Accepted to **IEEE Transaction on Medical Imaging (2023 IF 10.6).**<br>
+  <b>IEEE Transaction on Medical Imaging, 43 (12): 4078-4090. (2024 IF 8.9).</b>**<br>
   [[paper](https://ieeexplore.ieee.org/document/10553522)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
 
 * <b>Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation</b> <br> 
   <b>Xingyue Zhao, Zhongyu Li, Xiangde Luo</b>, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong <br> 
-  <b>IEEE Transactions on Circuits and Systems for Video Technology. (2023 IF 8.4).</b> (the first three authors contributed equally.)<br>
+  <b>IEEE Transactions on Circuits and Systems for Video Technology, 34 (10): 9010-9023. (2023 IF 8.4).</b> (the first three authors contributed equally.)<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10508987)][[code](https://github.com/NeuronXJTU/CRBNet)]
   
 * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
@@ -49,7 +49,7 @@ Wenjun Liao, <b>Xiangde Luo*</b><br>
 * <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
   <b>Xiangde Luo</b>, Hongqiu Wang, Jinfeng Xu, Lu Li, Yue Zhao, Yuan He, Hui Huang, Jianghong Xiao, Song Tao, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Wenjun Liao<br> 
   <b>Accepted to **International Journal of Radiation Oncology Biology Physics** (2024 IF 6.4).<br>
-  [[paper](https://www.sciencedirect.com/science/article/pii/S0360301624036447)][[code](https://github.com/Luoxd1996/AL4GTVSeg)][[pdf]](https://www.sciencedirect.com/science/article/pii/S0360301624036447)[[dataset]](https://github.com/whq-xxh/SFADA-GTV-Seg)
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0360301624036447)][[code](https://github.com/Luoxd1996/AL4GTVSeg)][[pdf]](https://www.sciencedirect.com/science/article/pii/S0360301624036447)[[multi-center dataset]](https://github.com/whq-xxh/SFADA-GTV-Seg)[[multi-rater](https://mmis2024.com/)]
   
  * <b>A multicenter dataset for lymph node clinical target volume delineation of nasopharyngeal carcinoma</b> <br>
 <b>Xiangde Luo</b>, Wenjun Liao, Yue Zhao, Youjing Qiu, Jinfeng Xu, Yuan He, Hui Huang, Lu Li, Shichuan Zhang, Jia Fu, Guotai Wang, Shaoting Zhang<br>
@@ -63,12 +63,12 @@ Wenjun Liao, <b>Xiangde Luo*</b><br>
 
   * <b> Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy</b> <br> 
   Wenjun Liao, <b>Xiangde Luo</b>, Yuan He, Ye Dong, Churong Li, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Jianghong Xiao <br> 
-  <b>Accept to International Journal of Radiation Oncology Biology Physics (2022 IF 8.01) </b><br>
+  <b>International Journal of Radiation Oncology Biology Physics, 107 (2023): 994-1006. (2022 IF 8.01) </b><br>
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0360301623005205)][[code](https://github.com/Luoxd1996/AbsegNet)][[pdf]](../files/AbsegNet-RedJournal2023.pdf)
 
 * <b> Automatic delineation of gross tumor volume based on magnetic resonance imaging by performing a novel semisupervised learning framework in nasopharyngeal carcinoma</b> <br>
 Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong Li, Jianghong Xiao, Guotai Wang, Nianyong Chen<br> 
-  <b>Accept to International Journal of Radiation Oncology Biology Physics (2022 IF 8.01) </b><br>
+  <b>International Journal of Radiation Oncology Biology Physics, 113 (2022): 893-902. (2022 IF 8.01) </b><br>
   [[paper](https://www.sciencedirect.com/science/article/pii/S0360301622002772)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf]](https://www.sciencedirect.com/science/article/pii/S0360301622002772)
   
 **Conferences**
