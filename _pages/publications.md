@@ -12,7 +12,7 @@ author_profile: true
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
-  <b>IEEE Transaction on Medical Imaging, 43 (12): 4078-4090. (2024 IF 8.9).</b>**<br>
+  <b>IEEE Transaction on Medical Imaging, 43 (12): 4078-4090. (2024 IF 8.9).</b><br>
   [[paper](https://ieeexplore.ieee.org/document/10553522)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
 
 * <b>Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation</b> <br> 
