@@ -3,9 +3,9 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-**Technical Reports**
+**Technical Report**
 * <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
-Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang and <b>Xiangde Luo*</b><br>
+Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang and <b>Xiangde Luo</b><br>
 <b>A head and neck lymph node segmentation foundation model and efficient few-shot fine-tuning strategy for downstream tasks.</b><br>
 [[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
 
