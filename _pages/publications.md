@@ -3,6 +3,11 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
+**Technical Reports**
+* <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <be>
+Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang and <b>Xiangde Luo*</b><br>
+[[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
+
 **Technical Journals**  
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
 <b>Xiangde Luo</b>, Jia Fu, All Participants (35 Authors), Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
