@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- # About me [[My CV_CN](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangde_luo_cv.pdf)] -->
-# About me
+# About me [[CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangde_luo_cv.pdf)]
+<!-- # About me -->
 <!--* Now, I am a research assistant at West China Hospital of Sichuan University for clinically target volume delineation tool development. I graduated from the School of Mechanical and Electrical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), co-advised by Prof. [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and Prof. [Shaoting Zhang](https://scholar.google.co.uk/citations?user=oiBMWK4AAAAJ&hl=en).
 * I am a researcher focused on medical image analysis, particularly in data-efficient learning for medical image computing, such as semi-supervised learning, weakly-supervised learning and human-in-the-loop, and extending them for practical clinical applications. -->
 * I am a postdoc at the Radiation Oncology Stanford Medicine focusing on AI for precision oncology, supervised by [Prof. Ruijiang Li](https://scholar.google.com/citations?user=Y89JnCYAAAAJ&hl=en).
