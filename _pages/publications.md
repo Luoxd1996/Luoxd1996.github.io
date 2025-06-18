@@ -3,11 +3,6 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-**Technical Report**
-* <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
-Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang and <b>Xiangde Luo</b><br>
-<b>A head and neck lymph node segmentation foundation model and efficient few-shot fine-tuning strategy for downstream tasks.</b><br>
-[[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
 
 **Technical Journals**  
 * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
@@ -78,6 +73,11 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
   [[paper](https://www.sciencedirect.com/science/article/pii/S0360301622002772)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf]](https://www.sciencedirect.com/science/article/pii/S0360301622002772)
   
 **Conferences**
+* <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
+Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang and <b>Xiangde Luo</b><br>
+<b>MICCAI2025.</b><br>
+[[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
+
 * <b>Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases</b> <br>
 <b>Xiangde Luo</b>, Zihan Li, Wenjun Liao, Shaoting Zhang, Guotai Wang<br>
   <b>MICCAI2024 (CCF B, early accept, top 11% in 2869 submissions.)</b>.<br>
