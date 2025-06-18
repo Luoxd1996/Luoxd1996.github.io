@@ -75,7 +75,7 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
 **Conferences**
 * <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
 Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang and <b>Xiangde Luo</b><br>
-<b>MICCAI2025 (CCF B)</b><br>
+<b>MICCAI2025 (CCF B).</b><br>
 [[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
 
 * <b>Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases</b> <br>
