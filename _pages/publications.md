@@ -82,10 +82,5 @@ Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang* and <b>Xiangde L
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
   <b>AAAI2021 (CCF A)</b>.<br>
-  <b><font color="red">Top 15 Most Influential AAAI 2021 Papers</font>, [Source](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/)</b> <br> 
+  <b><font color="red">Top 15 Most Influential AAAI 2021 Papers</font>, [Source](https://resources.paperdigest.org/2025/03/most-influential-aaai-papers-2025-03-version)</b> <br> 
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
- 
-<!-- * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
-  Xu Chen, <b>Xiangde Luo</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
-  A short version of this paper was accepted by <b>ISBI2021</b> (The first two authors contributed equally.)<br>
- [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)] -->
