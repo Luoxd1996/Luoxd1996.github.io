@@ -82,5 +82,5 @@ Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang* and <b>Xiangde L
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
   <b>AAAI2021 (CCF A)</b>.<br>
-  <b><font color="red">[Top 15 Most Influential AAAI 2021 Papers](https://resources.paperdigest.org/2025/03/most-influential-aaai-papers-2025-03-version)</font></b> <br> 
+  <b>[<font color="red">Top 15 Most Influential AAAI 2021 Papers</font>](https://resources.paperdigest.org/2025/03/most-influential-aaai-papers-2025-03-version)</b> <br> 
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
