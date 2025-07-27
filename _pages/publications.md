@@ -5,26 +5,16 @@ author_profile: true
 ---
 
 **Technical Journals**  
-* <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
+<!-- * <b> SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma </b> <br>
 <b>Xiangde Luo</b>, Jia Fu, All Participants (35 Authors), Mu Zhou, Shichuan Zhang, Wenjun Liao, Guotai Wang, Shaoting Zhang <br>
 <b>Medical Image Analysis, 101 (2025): 103447. (2024 IF 10.7).</b><br>
-[[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003748)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/SegRap2023_MedIA.pdf)[[challenge]](https://segrap2023.grand-challenge.org/)
+[[paper](https://www.sciencedirect.com/science/article/pii/S1361841524003748)][[code](https://github.com/HiLab-git/SegRap2023)][[pdf]](../files/SegRap2023_MedIA.pdf)[[challenge]](https://segrap2023.grand-challenge.org/) --!>
 
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
   <b>IEEE Transaction on Medical Imaging, 43 (12): 4078-4090. (2024 IF 8.9).</b><br>
   [[paper](https://ieeexplore.ieee.org/document/10553522)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
-
-* <b>Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation</b> <br> 
-  <b>Xingyue Zhao, Zhongyu Li, Xiangde Luo</b>, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong <br> 
-  <b>IEEE Transactions on Circuits and Systems for Video Technology, 34 (10): 9010-9023. (2023 IF 8.4).</b> (the first three authors contributed equally.)<br>
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10508987)][[code](https://github.com/NeuronXJTU/CRBNet)]
-  
-* <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
-  <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
-  <b>IEEE Transaction on Medical Imaging, 42 (9): 2666-2677. (2023 IF 10.6).</b> (the first three authors contributed equally.)<br>
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10087318)][[code](https://github.com/NeuronXJTU/SFDA-CellSeg)][[pdf](../files/SFDA-CellSeg-TMI2023.pdf)]
 
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
@@ -77,11 +67,6 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
 Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang* and <b>Xiangde Luo*</b><br>
 <b>MICCAI2025 (CCF B).</b><br>
 [[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
-
-* <b>Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases</b> <br>
-<b>Xiangde Luo</b>, Zihan Li, Wenjun Liao, Shaoting Zhang, Guotai Wang<br>
-  <b>MICCAI2024 (CCF B, early accept, top 11% in 2869 submissions.)</b>.<br>
-  [[paper](https://arxiv.org/abs/2406.13674)][[code](https://github.com/Luoxd1996/RAOS)][[pdf](https://arxiv.org/pdf/2406.13674)]
 
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
