@@ -61,12 +61,12 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
 **Conferences**
 * <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
 Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang* and <b>Xiangde Luo*</b><br>
-<b>MICCAI2025 (CCF B).</b><br>
+<b>MICCAI2025.</b><br>
 [[paper](https://arxiv.org/pdf/2503.00748)][[code](https://github.com/Zihaoluoh/LN-Seg-FM)][[dataset](https://github.com/Luoxd1996/MSHub)]
 
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <b>MICCAI2022 (CCF B, early accept, top 13% in 1825 submissions, [Student Travel Award](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html))</b>.<br>
+  <b>MICCAI2022 ([Student Travel Award](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html))</b>.<br>
   [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)][[pdf](../files/DMPLS-MICCAI2022.pdf)]
     
 * <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
@@ -76,11 +76,11 @@ Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang* and <b>Xiangde L
   
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
-  <b>MICCAI2021 (CCF B, early accept, top 13% in 1630 submissions)</b>.<br>
+  <b>MICCAI2021</b>.<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/URPC-MICCAI2021.pdf)]
    
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
-  <b>AAAI2021 (CCF A)</b>.<br>
+  <b>AAAI2021</b>.<br>
   <b>[<font color="red">Top 15 Most Influential AAAI 2021 Papers</font>](https://resources.paperdigest.org/2025/03/most-influential-aaai-papers-2025-03-version)</b> <br> 
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
