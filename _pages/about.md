@@ -19,6 +19,7 @@ redirect_from:
 <!--* Now, I am seeking a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 # Recent News
+* November 2025, I transferred to computational pathology for precision oncology. Here, we developed a codebase [nnMIL](https://github.com/Luoxd1996/nnMIL) for efficient computational pathology research.
 * September 2025, I was listed in the Stanford/Elsevier World's Top 2% Scientists [2025](https://topresearcherslist.com/Home/Profile/1186355).
 * May 2025, served as an Area Chair for MICCAI 2025.
 * December 23, 2024, the challenge report of [SegRap2023](https://segrap2023.grand-challenge.org/) organized in conjunction with MICCAI2023 was accepted to <b>Medical Image Analysis</b> thanks to all co-authors and participants. BTW, we will organize [SegRap2025](https://hilab-git.github.io/SegRap2025_Challenge/) in conjunction with MICCAI2025, see you in [Daejeon, Republic of Korea](https://conferences.miccai.org/2025/en/default.asp).
