@@ -13,6 +13,7 @@ redirect_from:
 * Previously, I received my PhD (2024) and Bachelor's degree (2018) from the School of Mechanical and Electrical Engineering at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by [Prof. Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=zh-CN). My doctoral dissertation (in Chinese) is available [here](https://drive.google.com/file/d/1a_ZgTylohzLBQnGGPuqx5F8YT7lE_5zr/view?usp=drive_link). I also completed research internships at Shanghai AI Lab (3 years), SenseTime (1 year), and West China Hospital (4 months).
 
 # Recent News
+* February 2026, I will serve as an Area Chair in MICCAI 2026.
 * November 2025, I transferred to computational pathology for precision oncology. Here, we developed a codebase [nnMIL](https://github.com/Luoxd1996/nnMIL) for efficient computational pathology research.
 * September 2025, I was listed in the Stanford/Elsevier World's Top 2% Scientists [2025](https://topresearcherslist.com/Home/Profile/1186355).
 * May 2025, served as an Area Chair for MICCAI 2025.
