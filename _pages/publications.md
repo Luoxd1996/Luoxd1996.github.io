@@ -3,9 +3,16 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
+**Technical report** 
+* <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
+<b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
+[[paper](https://arxiv.org/abs/2511.14907)][[code](https://github.com/Luoxd1996/nnMIL)]
 
+* <b> Ensemble learning of pathology foundation models for precision oncology</b> <br>
+<b>Xiangde Luo</b>, Xiyue Wang, Feyisope Eweje, Xiaoming Zhang, Sen Yang, Ryan Quinton, Jinxi Xiang, Yuchen Li, Yuanfeng Ji, Zhe Li, Yijiang Chen, Colin Bergstrom, Ted Kim, Francesca Maria Olguin, Kelley Yuan, Matthew Abikenari, Andrew Heider, Sierra Willens, Sanjeeth Rajaram, Robert West, Joel Neal, Maximilian Diehn, Ruijiang Li<br>
+[[paper](https://arxiv.org/abs/2508.16085)][[code](https://github.com/lilab-stanford/ELF)]
+  
 **Technical Journals**  
-
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
