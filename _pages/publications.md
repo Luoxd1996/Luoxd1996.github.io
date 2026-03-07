@@ -3,7 +3,7 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-**Technical report** 
+**Technical reports** 
 * <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
 <b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
 [[paper](https://arxiv.org/abs/2511.14907)][[code](https://github.com/Luoxd1996/nnMIL)]
