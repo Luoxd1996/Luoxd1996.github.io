@@ -13,16 +13,17 @@ author_profile: true
 [[ArXiv](https://arxiv.org/abs/2508.16085)][[code](https://github.com/lilab-stanford/ELF)]
   
 **Technical Journals**  
+
+* <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
+<b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
+<b>XXXX (In press).</b><br>
+[[ArXiv](https://arxiv.org/abs/2511.14907)][[code](https://github.com/Luoxd1996/nnMIL)]
+
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
 Wenjun Liao, <b>Xiangde Luo*</b><br> 
   <b>IEEE Transaction on Medical Imaging, 43 (12): 4078-4090. (2024 IF 8.9).</b><br>
   [[paper](https://ieeexplore.ieee.org/document/10553522)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
-
- * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
-  <b>Medical Image Analysis, 82 (2022): 102642. (2022 IF 13.828)</b>.<br>
-  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522002705)][[code](https://github.com/HiLab-git/WORD)][[pdf](../files/WORD-MedIA2022.pdf)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
    
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
