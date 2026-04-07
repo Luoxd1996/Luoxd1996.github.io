@@ -4,16 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 **Technical reports** 
-* <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
-<b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
-[[ArXiv](https://arxiv.org/abs/2511.14907)][[code](https://github.com/Luoxd1996/nnMIL)]
-
 * <b> Ensemble learning of pathology foundation models for precision oncology</b> <br>
 <b>Xiangde Luo</b>, Xiyue Wang, Feyisope Eweje, Xiaoming Zhang, Sen Yang, Ryan Quinton, Jinxi Xiang, Yuchen Li, Yuanfeng Ji, Zhe Li, Yijiang Chen, Colin Bergstrom, Ted Kim, Francesca Maria Olguin, Kelley Yuan, Matthew Abikenari, Andrew Heider, Sierra Willens, Sanjeeth Rajaram, Robert West, Joel Neal, Maximilian Diehn, Ruijiang Li<br>
 [[ArXiv](https://arxiv.org/abs/2508.16085)][[code](https://github.com/lilab-stanford/ELF)]
   
 **Technical Journals**  
-
 * <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
 <b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
 <b>XXXX (In press).</b><br>
