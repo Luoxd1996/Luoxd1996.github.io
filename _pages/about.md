@@ -14,6 +14,7 @@ redirect_from:
 
 # Recent News
 * August 7, 2026, our paper , **Ensemble learning of pathology foundation models for precision oncology**, has been formally accepted by **Cancer Cell**.
+* July 22, 2026, I was invited to serve as an Area Chair for [**AAAI2027**](https://aaai.org/conference/aaai/aaai-27/).
 * July 1, 2026, our paper, **nnMIL: A generalizable multiple instance learning framework for computational pathology**, has been formally accepted by **Nature Biomedical Engineering**.
 * February 2026, I will serve as an Area Chair in MICCAI 2026.
 * November 2025, I transferred to computational pathology for precision oncology. Here, we developed a codebase [nnMIL](https://github.com/Luoxd1996/nnMIL) for efficient computational pathology research.
