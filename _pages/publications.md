@@ -12,8 +12,8 @@ author_profile: true
 
 * <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
 <b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
-<b>Nature Biomedical Engineering (In press) 2026.</b><br>
-[[ArXiv](https://arxiv.org/abs/2511.14907)][[code](https://github.com/Luoxd1996/nnMIL)]
+<b>Nature Biomedical Engineering, 2026.</b><br>
+[[paper](https://www.nature.com/articles/s41551-026-01767-8)][[code](https://github.com/Luoxd1996/nnMIL)]
 
 * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
   Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
