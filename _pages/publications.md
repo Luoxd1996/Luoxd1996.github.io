@@ -7,8 +7,8 @@ author_profile: true
 **Technical Journals**  
 * <b> Ensemble learning of pathology foundation models for precision oncology</b> <br>
 <b>Xiangde Luo</b>, Xiyue Wang, Feyisope Eweje, Xiaoming Zhang, Juan Luis Gomez Marti, Sarah Cascarino, Sen Yang, Yuchen Li, Ryan Quinton, Jinxi Xiang, Yuanfeng Ji, Zhe Li, Yijiang Chen, Colin Bergstrom, Ted Kim, Francesca Maria Olguin, Kelley Yuan, Matthew Abikenari, Andrew Heider, Sierra Willens, Sanjeeth Rajaram, Robert West, Joel Neal, Adam Schoenfeld, Maximilian Diehn, Chad Vanderbilt, and Ruijiang Li<br>
-<b>Cancer Cell (In press) 2026.</b><br>
-[[ArXiv](https://arxiv.org/abs/2508.16085)][[code](https://github.com/lilab-stanford/ELF)]
+<b>Cancer Cell, 2026.</b><br>
+[[paper](https://www.sciencedirect.com/science/article/pii/S1535610826003855)][[preview](https://www.sciencedirect.com/science/article/pii/S1535610826003909)][[code](https://github.com/lilab-stanford/ELF)]
 
 * <b> nnMIL: A generalizable multiple instance learning framework for computational pathology</b> <br>
 <b>Xiangde Luo</b>, Jinxi Xiang, Yuanfeng Ji, Ruijiang Li<br>
