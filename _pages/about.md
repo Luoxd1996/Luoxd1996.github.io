@@ -14,7 +14,7 @@ redirect_from:
 
 # Recent News
 * October 7 2026, I was listed in the Stanford/Elsevier World's Top 2% Scientists [2026](https://topresearcherslist.com/Home/Profile/1186355).
-* September 24, 2026, Our paper **Towards Scalable Context-Aware Single-Cell Spatial Transcriptomics Prediction from Histology Images** has been accepted to **NeurIPS 2026**. Congratulations to [**Zijun**](https://scholar.google.co.uk/citations?user=1uyjK9IAAAAJ&hl=en)!
+* September 24, 2026, our paper **Towards Scalable Context-Aware Single-Cell Spatial Transcriptomics Prediction from Histology Images** has been accepted to **NeurIPS 2026**. Congratulations to [**Zijun**](https://scholar.google.co.uk/citations?user=1uyjK9IAAAAJ&hl=en)!
 * September 10, 2026, our paper, **Ensemble learning of pathology foundation models for precision oncology**, has been published on **Cancer Cell**, [paper](https://www.sciencedirect.com/science/article/pii/S1535610826003855) and [preview](https://www.sciencedirect.com/science/article/pii/S1535610826003909).
 * August 25, 2026, our paper, **nnMIL: A generalizable multiple instance learning framework for computational pathology**, has been published on **Nature Biomedical Engineering**, [paper](https://www.nature.com/articles/s41551-026-01767-8) and [briefing](https://www.nature.com/articles/s41551-026-01766-9).
 * July 22, 2026, I was invited to serve as an Area Chair for [**AAAI2027**](https://aaai.org/conference/aaai/aaai-27/).
