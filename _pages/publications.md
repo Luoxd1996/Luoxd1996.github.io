@@ -63,6 +63,11 @@ Wenjun Liao, Jinlan He, <b>Xiangde Luo</b>, Mengwan Wu, Yuanyuan Shen, Churong L
   [[paper](https://www.sciencedirect.com/science/article/pii/S0360301622002772)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf]](https://www.sciencedirect.com/science/article/pii/S0360301622002772)
   
 **Conferences**
+* <b>Towards Scalable Context-Aware Single-Cell Spatial Transcriptomics Prediction from Histology Images</b> <br>
+  Zijun Gao, Chunbin Gu, Jinxi Xiang, <b>Xiangde Luo*</b>, Pheng-Ann Heng<br>
+  <b>NeurIPS2026</b>.<br>
+  [[paper](https://arxiv.org/abs/2609.36429)][[code](https://github.com/zjgao02/CELLO)]
+  
 * <b> Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model</b> <br>
 Zihao Luo, Zijun Gao, Wenjun Liao, Shichuan Zhang, Guotai Wang* and <b>Xiangde Luo*</b><br>
 <b>MICCAI2025.</b><br>
